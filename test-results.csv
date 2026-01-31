@@ -1,0 +1,2 @@
+﻿TC ID,Test Case Name,Input,Expected Output,Actual Output,Status,Technique Used,Justification,What is Covered
+"Neg_Fun_11","Compound sentence with ""namuth"" (but)","nangii paadam karanavaa namuth malli sellam karanavaa.","නංගි පාඩම් කරනවා නමුත් මල්ලි සෙල්ලම් කරනවා.","නන්ගී පාඩම් කරනවා නමුත් මල්ලි සෙල්ලම් කරනවා.","Fail","Conjunction handling","Connects two ideas using the conjunction ""namuth"" correctly.","Daily language usage • Compound sentence • M (31-299 characters) • Accuracy validation"

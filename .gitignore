@@ -1,9 +1,12 @@
 node_modules/
 test-results/
 playwright-report/
-*.pdf
+IT23836068/
+*.zip
 *.xlsx
-*.csv
-selectors.txt
-.env
-.DS_Store
+TestCases.xlsx
+IT3040_Assignment1_TestCases*.xlsx
+git_repo_link.txt
+IT23836068.txt
+generate_excel.py
+generate_excel_final.py
